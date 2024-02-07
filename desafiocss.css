@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.menu{
+    color:#989D9C;
+    letter-spacing: 10px;
+    
+
+}
+.botao1{
+    color: #FFFFFF;
+    background: #665AE1;
+    width: 130px;
+    height: 41px;
+    border-radius: 20.5px;
+    border: #665AE1;
+}
+
+
+.esquerda{
+   display: inline-block;
+   margin-top: 150px;
+   margin-left: 91px;
+    }
+
+img{
+    width: 568px;
+    height: 500px;
+   
+
+}
+
+.direita{
+    display: inline-block;
+  
+}
+
+
+button:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+button:active{
+    opacity: 0.8;
+    
+}
+
+a{
+    cursor:pointer;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 108px;
+    height: 29px;
+    top: -1323px;
+    left: -2776px;
+
+
+}
+a:hover{
+    opacity: 0.8;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 122px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515151;
+}
+h2{
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #515151;
+    
+}
+
+p{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #515151;
+    margin: 60px 0;
+    width: 515px;
+    height: 87px;
+    top: -926px;
+    margin-right: -600px;
+
+}
+
+.botao2{
+    color: #000000;
+    background: #ADFF00;
+    border: none;
+    width: 239px;
+    height: 64px;
+    border-radius: 50px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 80px 0;
+      
+}
+
+
+header{
+    margin: 24px 0 0 57px;
+}
